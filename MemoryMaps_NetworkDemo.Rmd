@@ -1,0 +1,208 @@
+---
+title: "Memory Maps: Network Analysis Demo"
+output: html_notebook
+---
+
+# Prepare Packages
+
+```{r}
+install.packages("tidyverse","igraph","RColorBrewer","png")
+
+library(RColorBrewer)
+library(png)
+library(tidyverse)
+library(igraph)
+```
+
+# Import Processed Data
+
+```{r}
+df <- read.csv("NetworkDemo.csv")
+
+# Create memList vector to populate depending on which cells are empty
+memList <- data.frame(subset(df,select = c(1:25)))
+
+colnames(memList) <- c("ID","mem1","mem2","mem3","mem4","mem5","mem6","mem7","mem8","mem9","mem10","mem11", "mem12", "mem13", "mem14", "mem15", "mem16", "mem17", "mem18","mem19", "mem20", "mem21", "mem22", "mem23", "mem24")
+```
+
+# Generate Matrices for Memory Networks
+
+```{r Memory Network Generation}
+uIds <- unique(df$loginID)
+# column names
+idSubs <- df %>%
+  select(contains("Relations_"))
+
+# Subjects to remove based on network
+removeSubs <- c()
+
+# Generate a matrix for each subject and for each memory based on relations to other memories
+for(n in 1:nrow(df)){
+  i <- df$loginID[n]
+  
+  idNames <- memList[memList$ID==i,2:25] %>% as_vector() %>% na.omit()
+  numMems <- sum(!is.na(memList[memList$ID==i,2:25]))
+  
+  # Function to extract numeric part from strings like "Memory #1"
+  extract_numeric <- function(x) {
+    as.numeric(sub("Memory..", "", x))
+  }
+  
+  # subset subject row
+  subDf <- df[df$ID==i,]
+  
+  # generate empty matrix
+  subMat <- matrix(data = 0, nrow = numMems, ncol = numMems)
+  subMatW <- matrix(data = 0, nrow = numMems, ncol = numMems)
+  
+  for(c in 1:numMems){
+    
+    # subset identity "c"
+    j <- idSubs[n,c]
+    
+    # Remove 25th column (duplicate of first column) in idSubs
+    idSubs <- idSubs[,-25]
+    
+    # split words by comma
+    selectWord <-strsplit(as.character(idSubs[n,c][[1]]),",") 
+    if(length(selectWord[[1]])==0){
+      next
+    }
+
+    # populate 1s for select identities in row and column for undirected
+    subMat[extract_numeric(unlist(selectWord)), c] <- 1  # Set connections to 1 for selected nodes
+    diag(subMat) <- 0 # Set diagonal to 0s if participants nominated any self-connections
+    
+    for (p in unlist(selectWord)) {
+      numeric_p <- extract_numeric(p)
+      
+      if (!is.na(numeric_p)) {  # Only process if numeric_p is a valid numeric value
+        current_weight <- subMatW[numeric_p, c]
+        
+        col_name <- paste0(c, "_sim_", numeric_p)
+        
+        if (col_name %in% colnames(df)) {  # Check if the column exists in rawDf
+          new_value <- as.numeric(df[n, col_name])
+          
+          if (!is.na(current_weight) && !is.na(new_value)) {  # Ensure no NA values are involved
+            if (current_weight == 0) {
+              subMatW[numeric_p, c] <- new_value
+            } else if (current_weight > 0) {
+              subMatW[numeric_p, c] <- mean(c(current_weight, new_value))
+            }
+          } else if (is.na(current_weight)) {
+            subMatW[numeric_p, c] <- new_value  # Assign new_value if current_weight is NA
+          }
+        } 
+      } else {
+        warning(paste("Value", p, "in selectWord could not be converted to numeric"))
+      }
+    }
+
+    # if participant didn't indicate weight, replace with 0
+    subMatW[is.na(subMatW)] <- 0
+    
+    # Flipped direction of fraction so more overlap is closer between identities
+    diag(subMatW) <- 0 # Set diagonal to 0s if participants nominated any self-connections
+  }
+  rownames(subMat) <- idNames
+  colnames(subMat) <- idNames
+  
+  rownames(subMatW) <- idNames
+  colnames(subMatW) <- idNames
+  
+  # convert to graph
+  subGraph <- graph_from_adjacency_matrix(subMat, mode="directed")
+  subGraphW <- graph_from_adjacency_matrix(subMatW, weighted = T, mode="directed")
+  
+  # label
+  assign(paste0("subIMat.",i),subMat)
+  assign(paste0("subIGraph.",i),subGraph)
+  
+  assign(paste0("subIMatW.",i),subMatW)
+  assign(paste0("subIGraphW.",i),subGraphW)
+  
+  if(length(E(subGraph))==0 | length(V(subGraph)) < 4 ){
+    removeSubs <- c(removeSubs, i)
+    rm(list = c(paste0("subIGraph.",i)))
+    rm(list = c(paste0("subIGraphW.",i)))
+    rm(list = c(paste0("subIMat.",i)))
+    rm(list = c(paste0("subIMatW.",i)))
+  }
+}
+```
+
+# Plot/Map Memory Networks with iGraph
+
+```{r Memory Network Visualizations}
+# Visualize memory networks using iGraph
+plot.igraph(subIGraph.100,
+            edge.arrow.size = 0.25,
+            edge.arrow.width = 0.45,
+            edge.color = '#525252',
+            edge.size = 60,
+            vertex.size = 22,
+            vertex.color = '#A1D99B',
+            vertex.frame.color = '#BDBDBD',
+            vertex.frame.width = 1,
+            vertex.label.font = 1,
+            vertex.label.cex = 1,
+            vertex.label.dist = 0,
+            vertex.label.degree = -pi/4)
+
+plot.igraph(subIGraph.200,
+            edge.arrow.size = 0.25,
+            edge.arrow.width = 0.45,
+            edge.color = '#525252',
+            edge.size = 60,
+            vertex.size = 22,
+            vertex.color = '#A1D99B',
+            vertex.frame.color = '#BDBDBD',
+            vertex.frame.width = 1,
+            vertex.label.font = 1,
+            vertex.label.cex = 1,
+            vertex.label.dist = 0,
+            vertex.label.degree = -pi/4)
+
+plot.igraph(subIGraph.300,
+            edge.arrow.size = 0.25,
+            edge.arrow.width = 0.45,
+            edge.color = '#525252',
+            edge.size = 60,
+            vertex.size = 22,
+            vertex.color = '#A1D99B',
+            vertex.frame.color = '#BDBDBD',
+            vertex.frame.width = 1,
+            vertex.label.font = 1,
+            vertex.label.cex = 1,
+            vertex.label.dist = 0,
+            vertex.label.degree = -pi/4)
+
+plot.igraph(subIGraph.400,
+            edge.arrow.size = 0.25,
+            edge.arrow.width = 0.45,
+            edge.color = '#525252',
+            edge.size = 60,
+            vertex.size = 22,
+            vertex.color = '#A1D99B',
+            vertex.frame.color = '#BDBDBD',
+            vertex.frame.width = 1,
+            vertex.label.font = 1,
+            vertex.label.cex = 1,
+            vertex.label.dist = 0,
+            vertex.label.degree = -pi/4)
+
+plot.igraph(subIGraph.500,
+            edge.arrow.size = 0.25,
+            edge.arrow.width = 0.45,
+            edge.color = '#525252',
+            edge.size = 60,
+            vertex.size = 22,
+            vertex.color = '#A1D99B',
+            vertex.frame.color = '#BDBDBD',
+            vertex.frame.width = 1,
+            vertex.label.font = 1,
+            vertex.label.cex = 1,
+            vertex.label.dist = 0,
+            vertex.label.degree = -pi/4)
+```
