@@ -1,0 +1,148 @@
+loginID,Memory #1,Memory #2,Memory #3,Memory #4,Memory #5,Memory #6,Memory #7,Memory #8,Memory #9,Memory #10,Memory #11,Memory #12,Memory #13,Memory #14,Memory #15,Memory #16,Memory #17,Memory #18,Memory #19,Memory #20,Memory #21,Memory #22,Memory #23,Memory #24,Relations_1,1_sim_1,1_sim_2,1_sim_3,1_sim_4,1_sim_5,1_sim_6,1_sim_7,1_sim_8,1_sim_9,1_sim_10,1_sim_11,1_sim_12,1_sim_13,1_sim_14,1_sim_15,1_sim_16,1_sim_17,1_sim_18,1_sim_19,1_sim_20,1_sim_21,1_sim_22,1_sim_23,1_sim_24,Relations_2,2_sim_1,2_sim_2,2_sim_3,2_sim_4,2_sim_5,2_sim_6,2_sim_7,2_sim_8,2_sim_9,2_sim_10,2_sim_11,2_sim_12,2_sim_13,2_sim_14,2_sim_15,2_sim_16,2_sim_17,2_sim_18,2_sim_19,2_sim_20,2_sim_21,2_sim_22,2_sim_23,2_sim_24,Relations_3,3_sim_1,3_sim_2,3_sim_3,3_sim_4,3_sim_5,3_sim_6,3_sim_7,3_sim_8,3_sim_9,3_sim_10,3_sim_11,3_sim_12,3_sim_13,3_sim_14,3_sim_15,3_sim_16,3_sim_17,3_sim_18,3_sim_19,3_sim_20,3_sim_21,3_sim_22,3_sim_23,3_sim_24,Relations_4,4_sim_1,4_sim_2,4_sim_3,4_sim_4,4_sim_5,4_sim_6,4_sim_7,4_sim_8,4_sim_9,4_sim_10,4_sim_11,4_sim_12,4_sim_13,4_sim_14,4_sim_15,4_sim_16,4_sim_17,4_sim_18,4_sim_19,4_sim_20,4_sim_21,4_sim_22,4_sim_23,4_sim_24,Relations_5,5_sim_1,5_sim_2,5_sim_3,5_sim_4,5_sim_5,5_sim_6,5_sim_7,5_sim_8,5_sim_9,5_sim_10,5_sim_11,5_sim_12,5_sim_13,5_sim_14,5_sim_15,5_sim_16,5_sim_17,5_sim_18,5_sim_19,5_sim_20,5_sim_21,5_sim_22,5_sim_23,5_sim_24,Relations_6,6_sim_1,6_sim_2,6_sim_3,6_sim_4,6_sim_5,6_sim_6,6_sim_7,6_sim_8,6_sim_9,6_sim_10,6_sim_11,6_sim_12,6_sim_13,6_sim_14,6_sim_15,6_sim_16,6_sim_17,6_sim_18,6_sim_19,6_sim_20,6_sim_21,6_sim_22,6_sim_23,6_sim_24,Relations_7,7_sim_1,7_sim_2,7_sim_3,7_sim_4,7_sim_5,7_sim_6,7_sim_7,7_sim_8,7_sim_9,7_sim_10,7_sim_11,7_sim_12,7_sim_13,7_sim_14,7_sim_15,7_sim_16,7_sim_17,7_sim_18,7_sim_19,7_sim_20,7_sim_21,7_sim_22,7_sim_23,7_sim_24,Relations_8,8_sim_1,8_sim_2,8_sim_3,8_sim_4,8_sim_5,8_sim_6,8_sim_7,8_sim_8,8_sim_9,8_sim_10,8_sim_11,8_sim_12,8_sim_13,8_sim_14,8_sim_15,8_sim_16,8_sim_17,8_sim_18,8_sim_19,8_sim_20,8_sim_21,8_sim_22,8_sim_23,8_sim_24,Relations_9,9_sim_1,9_sim_2,9_sim_3,9_sim_4,9_sim_5,9_sim_6,9_sim_7,9_sim_8,9_sim_9,9_sim_10,9_sim_11,9_sim_12,9_sim_13,9_sim_14,9_sim_15,9_sim_16,9_sim_17,9_sim_18,9_sim_19,9_sim_20,9_sim_21,9_sim_22,9_sim_23,9_sim_24,Relations_10,10_sim_1,10_sim_2,10_sim_3,10_sim_4,10_sim_5,10_sim_6,10_sim_7,10_sim_8,10_sim_9,10_sim_10,10_sim_11,10_sim_12,10_sim_13,10_sim_14,10_sim_15,10_sim_16,10_sim_17,10_sim_18,10_sim_19,10_sim_20,10_sim_21,10_sim_22,10_sim_23,10_sim_24,Relations_11,11_sim_1,11_sim_2,11_sim_3,11_sim_4,11_sim_5,11_sim_6,11_sim_7,11_sim_8,11_sim_9,11_sim_10,11_sim_11,11_sim_12,11_sim_13,11_sim_14,11_sim_15,11_sim_16,11_sim_17,11_sim_18,11_sim_19,11_sim_20,11_sim_21,11_sim_22,11_sim_23,11_sim_24,Relations_12,12_sim_1,12_sim_2,12_sim_3,12_sim_4,12_sim_5,12_sim_6,12_sim_7,12_sim_8,12_sim_9,12_sim_10,12_sim_11,12_sim_12,12_sim_13,12_sim_14,12_sim_15,12_sim_16,12_sim_17,12_sim_18,12_sim_19,12_sim_20,12_sim_21,12_sim_22,12_sim_23,12_sim_24,Relations_13,13_sim_1,13_sim_2,13_sim_3,13_sim_4,13_sim_5,13_sim_6,13_sim_7,13_sim_8,13_sim_9,13_sim_10,13_sim_11,13_sim_12,13_sim_13,13_sim_14,13_sim_15,13_sim_16,13_sim_17,13_sim_18,13_sim_19,13_sim_20,13_sim_21,13_sim_22,13_sim_23,13_sim_24,Relations_14,14_sim_1,14_sim_2,14_sim_3,14_sim_4,14_sim_5,14_sim_6,14_sim_7,14_sim_8,14_sim_9,14_sim_10,14_sim_11,14_sim_12,14_sim_13,14_sim_14,14_sim_15,14_sim_16,14_sim_17,14_sim_18,14_sim_19,14_sim_20,14_sim_21,14_sim_22,14_sim_23,14_sim_24,Relations_15,15_sim_1,15_sim_2,15_sim_3,15_sim_4,15_sim_5,15_sim_6,15_sim_7,15_sim_8,15_sim_9,15_sim_10,15_sim_11,15_sim_12,15_sim_13,15_sim_14,15_sim_15,15_sim_16,15_sim_17,15_sim_18,15_sim_19,15_sim_20,15_sim_21,15_sim_22,15_sim_23,15_sim_24,Relations_16,16_sim_1,16_sim_2,16_sim_3,16_sim_4,16_sim_5,16_sim_6,16_sim_7,16_sim_8,16_sim_9,16_sim_10,16_sim_11,16_sim_12,16_sim_13,16_sim_14,16_sim_15,16_sim_16,16_sim_17,16_sim_18,16_sim_19,16_sim_20,16_sim_21,16_sim_22,16_sim_23,16_sim_24,Relations_17,17_sim_1,17_sim_2,17_sim_3,17_sim_4,17_sim_5,17_sim_6,17_sim_7,17_sim_8,17_sim_9,17_sim_10,17_sim_11,17_sim_12,17_sim_13,17_sim_14,17_sim_15,17_sim_16,17_sim_17,17_sim_18,17_sim_19,17_sim_20,17_sim_21,17_sim_22,17_sim_23,17_sim_24,Relations_18,18_sim_1,18_sim_2,18_sim_3,18_sim_4,18_sim_5,18_sim_6,18_sim_7,18_sim_8,18_sim_9,18_sim_10,18_sim_11,18_sim_12,18_sim_13,18_sim_14,18_sim_15,18_sim_16,18_sim_17,18_sim_18,18_sim_19,18_sim_20,18_sim_21,18_sim_22,18_sim_23,18_sim_24,Relations_19,19_sim_1,19_sim_2,19_sim_3,19_sim_4,19_sim_5,19_sim_6,19_sim_7,19_sim_8,19_sim_9,19_sim_10,19_sim_11,19_sim_12,19_sim_13,19_sim_14,19_sim_15,19_sim_16,19_sim_17,19_sim_18,19_sim_19,19_sim_20,19_sim_21,19_sim_22,19_sim_23,19_sim_24,Relations_20,20_sim_1,20_sim_2,20_sim_3,20_sim_4,20_sim_5,20_sim_6,20_sim_7,20_sim_8,20_sim_9,20_sim_10,20_sim_11,20_sim_12,20_sim_13,20_sim_14,20_sim_15,20_sim_16,20_sim_17,20_sim_18,20_sim_19,20_sim_20,20_sim_21,20_sim_22,20_sim_23,20_sim_24,Relations_21,21_sim_1,21_sim_2,21_sim_3,21_sim_4,21_sim_5,21_sim_6,21_sim_7,21_sim_8,21_sim_9,21_sim_10,21_sim_11,21_sim_12,21_sim_13,21_sim_14,21_sim_15,21_sim_16,21_sim_17,21_sim_18,21_sim_19,21_sim_20,21_sim_21,21_sim_22,21_sim_23,21_sim_24,Relations_22,22_sim_1,22_sim_2,22_sim_3,22_sim_4,22_sim_5,22_sim_6,22_sim_7,22_sim_8,22_sim_9,22_sim_10,22_sim_11,22_sim_12,22_sim_13,22_sim_14,22_sim_15,22_sim_16,22_sim_17,22_sim_18,22_sim_19,22_sim_20,22_sim_21,22_sim_22,22_sim_23,22_sim_24,Relations_23,23_sim_1,23_sim_2,23_sim_3,23_sim_4,23_sim_5,23_sim_6,23_sim_7,23_sim_8,23_sim_9,23_sim_10,23_sim_11,23_sim_12,23_sim_13,23_sim_14,23_sim_15,23_sim_16,23_sim_17,23_sim_18,23_sim_19,23_sim_20,23_sim_21,23_sim_22,23_sim_23,23_sim_24,Relations_24,24_sim_1,24_sim_2,24_sim_3,24_sim_4,24_sim_5,24_sim_6,24_sim_7,24_sim_8,24_sim_9,24_sim_10,24_sim_11,24_sim_12,24_sim_13,24_sim_14,24_sim_15,24_sim_16,24_sim_17,24_sim_18,24_sim_19,24_sim_20,24_sim_21,24_sim_22,24_sim_23,24_sim_24,Relations_1.1,RSE1,RSE2,RSE3,RSE4,RSE5,RSE6,RSE7,RSE8,RSE9,RSE10,NFC-6_1,NFC-6_2,NFC-6_3,NFC-6_4,NFC-6_5,NFC-6_6,SCC1,SCC2,SCC3,SCC4,SCC5,SCC6,SCC7,SCC8,SCC9,SCC10,SCC11,SCC12,DS-S_1,DS-S_2,DS-S_3,DS-S_4,DS-S_5,DS-S_6,DS-S_7,DS-S_8,DS-S_9,DS-S_10,DS-S_11,DS-S_12,DS-S_13,DS-S_14,CESD1,CESD2,CESD3,check4,CESD4,CESD5,CESD6,CESD7,CESD8,CESD9,CESD10,CESD11,CESD12,CESD13,CESD14,CESD15,CESD16,CESD17,CESD18,CESD19,CESD20,SHS1,SHS2,SHS3,SHS4,RRQ_1,RRQ_2,RRQ_3,RRQ_4,RRQ_5,RRQ_6,RRQ_7,RRQ_8,RRQ_9,RRQ_10,RRQ_11,RRQ_12,RRQ_13,RRQ_14,RRQ_15,RRQ_16,RRQ_17,RRQ_18,RRQ_19,RRQ_20,RRQ_21,RRQ_22,RRQ_23,RRQ_24,login_id,count1,count2,count3,count4,memList,Memory #1.1,Memory #2.1,Memory #3.1,Memory #4.1,Memory #5.1,Memory #6.1,Memory #7.1,Memory #8.1,Memory #9.1,Memory #10.1,Memory #11.1,Memory #12.1,Memory #13.1,Memory #14.1,Memory #15.1,Memory #16.1,Memory #17.1,Memory #18.1,Memory #19.1,Memory #20.1,Memory #21.1,Memory #22.1,Memory #23.1,Memory #24.1
+100,Blue sandals suitcase driveway,Burger King jungle gym trapped sobbing,Dora art middle school,Grandpa glasses cleaning backyard,Uncle cigars coughing hug cat goat,Mom screaming violin stand snapped,Burger cafeteria tiny bite,Wrist twist soccer terrifying,Leg cast playground Jessica,Contact lens lost crying volleyball,Goldfish karate bamboo stick battle,Dad tearing argument tissue,Dance recital trembling national,Biology fair sophomore universe unity,Laptop selfies French awkward,Chick-fil-A buddy starving delicious,Lakeside pebbles strolling parents joyful,Thai curry tasty fishbone choking,ASMR YouTube shorts flavorful nostalgia,Buffalo wings stomach cramps regret,Nephew pestering greedy frustrating,Best friend jokes ice cream sunset,Boy school upset arthropod anxious,Hamster TikTok reaction shocked amused,Memory #1,0,,,,,,,,,,,,,,,,,,,,,,,,Memory #2,,0,,,,,,,,,,,,,,,,,,,,,,,Memory #3,,,0,,,,,,,,,,,,,,,,,,,,,,Memory #3,,,70,,,,,,,,,,,,,,,,,,,,,,Memory #13,,,,,,,,,,,,,10,,,,,,,,,,,,Memory #2,,50,,,,,,,,,,,,,,,,,,,,,,,Memory #24,,,,,,,,,,,,,,,,,,,,,,,,70,"Memory #9,Memory #10",,,,,,,,,100,100,,,,,,,,,,,,,,,Memory #9,,,,,,,,,0,,,,,,,,,,,,,,,,"Memory #8,Memory #9",,,,,,,,100,100,,,,,,,,,,,,,,,,Memory #12,,,,,,,,,,,,70,,,,,,,,,,,,,Memory #11,,,,,,,,,,,60,,,,,,,,,,,,,,Memory #4,,,,40,,,,,,,,,,,,,,,,,,,,,Memory #20,,,,,,,,,,,,,,,,,,,,30,,,,,Memory #13,,,,,,,,,,,,,50,,,,,,,,,,,,Memory #15,,,,,,,,,,,,,,,60,,,,,,,,,,Memory #11,,,,,,,,,,,30,,,,,,,,,,,,,,Memory #17,,,,,,,,,,,,,,,,,0,,,,,,,,Memory #17,,,,,,,,,,,,,,,,,20,,,,,,,,Memory #11,,,,,,,,,,,70,,,,,,,,,,,,,,"Memory #8,Memory #9,Memory #10",,,,,,,,50,50,50,,,,,,,,,,,,,,,Memory #5,,,,,10,,,,,,,,,,,,,,,,,,,,Memory #22,,,,,,,,,,,,,,,,,,,,,,80,,,Memory #7,,,,,,,60,,,,,,,,,,,,,,,,,,Memory #1,"Strongly Disagree
+1","Strongly Agree
+4","Agree
+3","Agree
+3","Strongly Agree
+4","Strongly Agree
+4","Disagree
+2","Agree
+3","Disagree
+2","Disagree
+2","Somewhat Unlike Me
+2","Somewhat Like Me
+4","Somewhat Unlike Me
+2","Extremely Unlike Me
+1","Somewhat Unlike Me
+2","Somewhat Unlike Me
+2",,,,,,,,,,,,,,,,,,,,,,,,,,,"Occasionally or a moderate amount of time (3-4 days)
+3","Most or all of the time (5-7 days)
+4","Occasionally or a moderate amount of time (3-4 days)
+3","Most or all of the time (5-7 days)
+4","Some or a little of the time (1-2 days)
+2","Most or all of the time (5-7 days)
+4","Most or all of the time (5-7 days)
+4","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Occasionally or a moderate amount of time (3-4 days)
+3","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Occasionally or a moderate amount of time (3-4 days)
+3","Most or all of the time (5-7 days)
+4","Rarely or none of the time (less than 1 day)
+1","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Most or all of the time (5-7 days)
+4","Occasionally or a moderate amount of time (3-4 days)
+3","Occasionally or a moderate amount of time (3-4 days)
+3",2,3,2,4,Agree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Disagree,Disagree,Agree,Neutral,Strongly Agree,Strongly Agree,Disagree,Agree,Disagree,Disagree,Disagree,Neutral,Agree,Strongly Disagree,Disagree,Disagree,8,24,,,,"LAX Hotel Issue, Round 1 date, May 15th , Move in day, Disney airbnb, 20th birthday, Flowermart 1st time, LA Trip with friends, Late night san diego, 1st day of pre school, Acko Riding as kid, Wasabi guarding valuables, Finding Pocky , Shaoshao brought home, Grandfather death, Funeral for grandpa, Drinking with family in Japan, Pretend worker in Japan, Shibuya and Akihabara, Shooting range with friends, Shadowing in hospital, The Fishbowl, Final for BCH110B, Jake mimic flexing guy",LAX Hotel Issue,Round 1 date,May 15th ,Move in day,Disney airbnb,20th birthday,Flowermart 1st time,LA Trip with friends,Late night san diego,1st day of pre school,Acko Riding as kid,Wasabi guarding valuables,Finding Pocky ,Shaoshao brought home,Grandfather death,Funeral for grandpa,Drinking with family in Japan,Pretend worker in Japan,Shibuya and Akihabara,Shooting range with friends,Shadowing in hospital,The Fishbowl,Final for BCH110B,Jake mimic flexing guy
+200,Growing up in Nigeria,Texas summer 2021,Catholic Academy,Ridgewood High,Papa 2020,Grad School Decisions,Quarantine Days,Life at UCLA,Band Recital,2022 Kenya,Education in Nigeria,First Stage Performance,Worship Life in Kenya,Surprise Celebration,Soccer in Nigeria,Basketball at Ridgewood,Track & Field Meet,Stoic but peaceful,Grandma’s old apartment,St. Andrew’s playground,Army base housing,Kwame and Joseph,Youth Bible Study,Summer Church Camp,Memory #8,,,,,,,,4,,,,,,,,,,,,,,,,,Memory #2,,0,,,,,,,,,,,,,,,,,,,,,,,Memory #14,,,,,,,,,,,,,,100,,,,,,,,,,,Memory #4,,,,1,,,,,,,,,,,,,,,,,,,,,Memory #24,,,,,,,,,,,,,,,,,,,,,,,,45,"Memory #3,Memory #11,Memory #20,Memory #21,Memory #22",,,35,,,,,,,,94,,,,,,,,,87,62,80,,,"Memory #3,Memory #14",,,76,,,,,,,,,,,100,,,,,,,,,,,Memory #8,,,,,,,,1,,,,,,,,,,,,,,,,,Memory #9,,,,,,,,,1,,,,,,,,,,,,,,,,"Memory #3,Memory #13,Memory #14,Memory #19,Memory #20",,,87,,,,,,,,,,100,94,,,,,72,62,,,,,"Memory #3,Memory #14,Memory #20,Memory #21",,,74,,,,,,,,,,,98,,,,,,92,56,,,,Memory #12,,,,,,,,,,,,88,,,,,,,,,,,,,Memory #19,,,,,,,,,,,,,,,,,,,67,,,,,,Memory #14,,,,,,,,,,,,,,1,,,,,,,,,,,Memory #14,,,,,,,,,,,,,,75,,,,,,,,,,,Memory #4,,,,95,,,,,,,,,,,,,,,,,,,,,Memory #14,,,,,,,,,,,,,,20,,,,,,,,,,,"Memory #14,Memory #19",,,,,,,,,,,,,,92,,,,,73,,,,,,Memory #14,,,,,,,,,,,,,,63,,,,,,,,,,,"Memory #3,Memory #14,Memory #19",,,64,,,,,,,,,,,100,,,,,91,,,,,,Memory #14,,,,,,,,,,,,,,91,,,,,,,,,,,"Memory #14,Memory #21",,,,,,,,,,,,,,98,,,,,,,77,,,,"Memory #14,Memory #19,Memory #22",,,,,,,,,,,,,,98,,,,,64,,,61,,,"Memory #14,Memory #19",,,,,,,,,,,,,,100,,,,,100,,,,,,Memory #8,"Strongly Agree
+4","Agree
+3","Strongly Agree
+4","Strongly Agree
+4","Strongly Disagree
+1","Strongly Disagree
+1","Strongly Agree
+4","Disagree
+2","Strongly Disagree
+1","Agree
+3","Somewhat Like Me
+4","Extremely Like Me
+5","Somewhat Unlike Me
+2","Uncertain
+3","Somewhat Like Me
+4","Extremely Like Me
+5","Strongly Disagree
+1","Somewhat Disagree
+2","Strongly Disagree
+1","Strongly Disagree
+1","Strongly Disagree
+1","Strongly Agree
+5","Strongly Disagree
+1","Strongly Disagree
+1","Somewhat Disagree
+2","Somewhat Agree
+4","Strongly Agree
+5","Somewhat Agree
+4",Somewhat disagree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Somewhat agree,Agree,Agree,Somewhat disagree,Somewhat agree,Strongly agree,,,,,,,,,,,,,,,,,,,,,,,,,,Agree,Disagree,Agree,Strongly Agree,Disagree,Agree,Disagree,Disagree,Agree,Agree,Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Strongly Agree,Disagree,33,22,24,,,"holding down dustpan for mom, split my head in fourth grade, first failed test third grade, Suspension in fifth grade(people mover), In school suspension 6th grade, mother's day avocado toast incident, Bryce seventh grade homeroom, First day of highschool sports, Meeting JT in Freshman Biology, First season of track, Becoming friends with Kevin over quarantine, League finals for track senior year, rejected from every UC except riverside, Returning my cap and gown, getting COVID on welcome week, Richard in my freshman year, Dad's christmas outburst , First day with my new bike, Crash bike first time in Riverside, Meeting Jo, Managers at work mad at me, PA pool party, First thanksgiving birthday, Schutes and Ladders test failed",holding down dustpan for mom,split my head in fourth grade,first failed test third grade,Suspension in fifth grade(people mover),In school suspension 6th grade,mother's day avocado toast incident,Bryce seventh grade homeroom,First day of highschool sports,Meeting JT in Freshman Biology,First season of track,Becoming friends with Kevin over quarantine,League finals for track senior year,rejected from every UC except riverside,Returning my cap and gown,getting COVID on welcome week,Richard in my freshman year,Dad's christmas outburst ,First day with my new bike,Crash bike first time in Riverside,Meeting Jo,Managers at work mad at me,PA pool party,First thanksgiving birthday,Schutes and Ladders test failed
+300,Parents separating,Losing my grandmother,First year of high school,Passing my driving test,Getting accepted into UCLA,My girlfriend saying yes,Coffee dates with my friend Naomi,Late-night adventures on Halloween,My childhood cat Whiskers,Turning 21 with friends,Trip to Mexico with my friend Jake,Walking across the stage at graduation,Road trips to the beach with my besties,First day at university,Playing soccer in high school,Christmas ice skating tradition with family,Helping out at the animal shelter,Visiting my grandma in assisted living,Theme park day with my mom,Attending my dad’s wedding,Holding my newborn niece for the first time,Weekend getaway to Santa Monica with Jake,Serving coffee at Dunkin’,Growing up in different households with my siblings,"Memory #2,Memory #3",,40,79,,,,,,,,,,,,,,,,,,,,,,"Memory #1,Memory #3",59,,41,,,,,,,,,,,,,,,,,,,,,,Memory #1,72,,,,,,,,,,,,,,,,,,,,,,,,Memory #2,,26,,,,,,,,,,,,,,,,,,,,,,,"Memory #2,Memory #6",,82,,,,35,,,,,,,,,,,,,,,,,,,"Memory #5,Memory #7",,,,,28,,37,,,,,,,,,,,,,,,,,,"Memory #5,Memory #6",,,,,31,48,,,,,,,,,,,,,,,,,,,"Memory #6,Memory #7",,,,,,26,71,,,,,,,,,,,,,,,,,,Memory #21,,,,,,,,,,,,,,,,,,,,,55,,,,Memory #4,,,,25,,,,,,,,,,,,,,,,,,,,,"Memory #8,Memory #10",,,,,,,,61,,28,,,,,,,,,,,,,,,"Memory #7,Memory #8,Memory #10,Memory #11",,,,,,,83,83,,46,47,,,,,,,,,,,,,,"Memory #4,Memory #7,Memory #22",,,,32,,,61,,,,,,,,,,,,,,,94,,,"Memory #13,Memory #22",,,,,,,,,,,,,27,,,,,,,,,29,,,"Memory #19,Memory #23",,,,,,,,,,,,,,,,,,,54,,,,17,,"Memory #7,Memory #8",,,,,,,60,92,,,,,,,,,,,,,,,,,"Memory #13,Memory #14,Memory #20,Memory #22,Memory #24",,,,,,,,,,,,,17,39,,,,,,100,,26,,65,"Memory #8,Memory #13,Memory #22",,,,,,,,25,,,,,64,,,,,,,,,73,,,"Memory #13,Memory #18,Memory #22",,,,,,,,,,,,,58,,,,,42,,,,72,,,"Memory #14,Memory #22",,,,,,,,,,,,,,92,,,,,,,,46,,,Memory #9,,,,,,,,,59,,,,,,,,,,,,,,,,"Memory #1,Memory #2,Memory #4,Memory #7",26,27,,43,,,75,,,,,,,,,,,,,,,,,,Memory #21,,,,,,,,,,,,,,,,,,,,,17,,,,"Memory #13,Memory #14,Memory #17,Memory #20,Memory #22",,,,,,,,,,,,,34,55,,,99,,,42,,25,,,"Memory #2,Memory #3","Strongly Agree
+4","Strongly Disagree
+1","Strongly Agree
+4","Strongly Agree
+4","Strongly Disagree
+1","Strongly Disagree
+1","Strongly Agree
+4","Agree
+3","Strongly Disagree
+1","Strongly Agree
+4",,,,,,,"Somewhat Agree
+4","Neutral
+3","Somewhat Disagree
+2","Somewhat Disagree
+2","Somewhat Disagree
+2","Neutral
+3","Somewhat Disagree
+2","Neutral
+3","Strongly Disagree
+1","Neutral
+3","Somewhat Agree
+4","Somewhat Disagree
+2",Somewhat disagree,Disagree,Somewhat disagree,Somewhat agree,Neither agree nor disagree,Somewhat agree,Somewhat agree,Somewhat agree,Neither agree nor disagree,Somewhat disagree,Disagree,Disagree,Disagree,Agree,"Some or a little of the time (1-2 days)
+2","Rarely or none of the time (less than 1 day)
+1","Rarely or none of the time (less than 1 day)
+1","Most or all of the time (5-7 days)
+4","Occasionally or a moderate amount of time (3-4 days)
+3","Some or a little of the time (1-2 days)
+2","Rarely or none of the time (less than 1 day)
+1","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Rarely or none of the time (less than 1 day)
+1","Some or a little of the time (1-2 days)
+2","Rarely or none of the time (less than 1 day)
+1","Most or all of the time (5-7 days)
+4","Rarely or none of the time (less than 1 day)
+1","Rarely or none of the time (less than 1 day)
+1","Rarely or none of the time (less than 1 day)
+1","Occasionally or a moderate amount of time (3-4 days)
+3","Rarely or none of the time (less than 1 day)
+1","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2","Some or a little of the time (1-2 days)
+2",7 - A very happy person,7 - More happy,6,2,,,,,,,,,,,,,,,,,,,,,,,,,44,10,24,,,"confined, strict, decent, fun, loved, friends, family, hard, standards, yolo, toys, trick-or-treat, explore, puberty, worry-full, esteem, complex, studies, college, parties, drinking, smoking, virginity, freedom",confined,strict,decent,fun,loved,friends,family,hard,standards,yolo,toys,trick-or-treat,explore,puberty,worry-full,esteem,complex,studies,college,parties,drinking,smoking,virginity,freedom
+400,First tennis trophy in the drizzle,College acceptance letter arrives,Grieving a loved one’s passing,Watching the championship game with friends,Promposal nerves at lunch,My first loss in fantasy football,Walking across the graduation stage,Heartbreak sinking in after the breakup,Locking eyes with her for the first time,Watching her walk away forever,Going to the movies after the accident,Deciding which college to attend,Letting go of basketball,Winning that tournament in Santa Barbara,Celebrating with In-N-Out after the big win,Buying my first pair of Yeezys,Landing my first part-time job,Clocking out for the last time,Saying goodbye to my younger teammates,Getting shocking news in the middle of dinner,"Lying on the grass, staring at the night sky",Dropping my phone on the driveway,Returning to the gym after months away,Playing guitar and singing to her in my room,Memory #2,,0,,,,,,,,,,,,,,,,,,,,,,,Memory #1,0,,,,,,,,,,,,,,,,,,,,,,,,Memory #2,,5,,,,,,,,,,,,,,,,,,,,,,,"Memory #1,Memory #11,Memory #17",20,,,,,,,,,,35,,,,,,60,,,,,,,,"Memory #2,Memory #8",,0,,,,,,4,,,,,,,,,,,,,,,,,"Memory #12,Memory #14",,,,,,,,,,,,5,,25,,,,,,,,,,,Memory #6,,,,,,5,,,,,,,,,,,,,,,,,,,Memory #1,0,,,,,,,,,,,,,,,,,,,,,,,,"Memory #5,Memory #13,Memory #21",,,,,1,,,,,,,,4,,,,,,,,5,,,,Memory #15,,,,,,,,,,,,,,,0,,,,,,,,,,Memory #10,,,,,,,,,,0,,,,,,,,,,,,,,,"Memory #13,Memory #21",,,,,,,,,,,,,0,,,,,,,,15,,,,Memory #8,,,,,,,,0,,,,,,,,,,,,,,,,,"Memory #6,Memory #21",,,,,,90,,,,,,,,,,,,,,,5,,,,Memory #10,,,,,,,,,,3,,,,,,,,,,,,,,,Memory #21,,,,,,,,,,,,,,,,,,,,,35,,,,Memory #1,70,,,,,,,,,,,,,,,,,,,,,,,,"Memory #6,Memory #7",,,,,,0,4,,,,,,,,,,,,,,,,,,"Memory #12,Memory #22",,,,,,,,,,,,10,,,,,,,,,,70,,,"Memory #2,Memory #4,Memory #7,Memory #11,Memory #19,Memory #22",,0,,10,,,5,,,,10,,,,,,,,12,,,12,,,Memory #1,2,,,,,,,,,,,,,,,,,,,,,,,,"Memory #7,Memory #12",,,,,,,25,,,,,3,,,,,,,,,,,,,Memory #11,,,,,,,,,,,0,,,,,,,,,,,,,,"Memory #19,Memory #22",,,,,,,,,,,,,,,,,,,10,,,10,,,Memory #2,"Agree
+3","Agree
+3","Agree
+3","Agree
+3","Disagree
+2","Agree
+3","Agree
+3","Agree
+3","Strongly Disagree
+1","Agree
+3","Somewhat Unlike Me
+2","Uncertain
+3","Somewhat Like Me
+4","Somewhat Unlike Me
+2","Somewhat Unlike Me
+2","Uncertain
+3",,,,,,,,,,,,,Agree,Strongly agree,Somewhat agree,Neither agree nor disagree,Somewhat agree,Agree,Somewhat disagree,Somewhat disagree,Somewhat agree,Agree,Somewhat disagree,Somewhat disagree,Somewhat disagree,Agree,,,,,,,,,,,,,,,,,,,,,,5,4,3,4,Agree,Disagree,Strongly Agree,Agree,Agree,Disagree,Neutral,Agree,Disagree,Strongly Disagree,Agree,Disagree,Strongly Disagree,Agree,Agree,Agree,Strongly Disagree,Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Neutral,Agree,Neutral,39,19,24,,,"getting my horse, my parents divorcing, my relationship with alex, being super depressed in high school, living with the martellos, kamp karaman, vacationing in maine, meeting john, deciding to major in psychology, going to paris, going to london, applying to grad school, working at harvard, meeting kate & the LEL, road trip to california, completing my SYP, halloween party at willow run, reuniting with kayla, starting antidepressants, playing volleyball in high school, going to firefly with jenny, going to warped tour with summer, concerts at starland ballroom, AJ's wedding in savannah",getting my horse,my parents divorcing,my relationship with alex,being super depressed in high school,living with the martellos,kamp karaman,vacationing in maine,meeting john,deciding to major in psychology,going to paris,going to london,applying to grad school,working at harvard,meeting kate & the LEL,road trip to california,completing my SYP,halloween party at willow run,reuniting with kayla,starting antidepressants,playing volleyball in high school,going to firefly with jenny,going to warped tour with summer,concerts at starland ballroom,AJ's wedding in savannah
+500,Getting my first dog,My parents splitting up,My complicated relationship with Chris,Struggling with depression in high school,Living with the Thompsons,Camp Oakridge summers,Family trips to Cape Cod,Meeting Michael for the first time,Choosing to study sociology,Exploring Rome for the first time,Weekend getaway to Amsterdam,Sending off my grad school applications,Working at Yale,Meeting Sarah & the GRS crew,Driving cross-country to Arizona,Finishing my senior research project,Halloween bash at Maplewood House,Catching up with Emily after years apart,Starting medication for anxiety,Playing basketball in high school,Music festival weekend with Maddie,Going to Lollapalooza with Bella,Concert nights at House of Blues,Ben’s wedding in Charleston,,,,,,,,,,,,,,,,,,,,,,,,,,Memory #13,,,,,,,,,,,,,19,,,,,,,,,,,,"Memory #12,Memory #13",,,,,,,,,,,,46,56,,,,,,,,,,,,"Memory #3,Memory #12,Memory #13",,,91,,,,,,,,,32,44,,,,,,,,,,,,Memory #8,,,,,,,,3,,,,,,,,,,,,,,,,,Memory #8,,,,,,,,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Memory #16,,,,,,,,,,,,,,,,2,,,,,,,,,Memory #10,,,,,,,,,,10,,,,,,,,,,,,,,,Memory #22,,,,,,,,,,,,,,,,,,,,,,10,,,Memory #12,,,,,,,,,,,,55,,,,,,,,,,,,,Memory #24,,,,,,,,,,,,,,,,,,,,,,,,4,Memory #12,,,,,,,,,,,,29,,,,,,,,,,,,,Memory #1,7,,,,,,,,,,,,,,,,,,,,,,,,"Memory #3,Memory #4,Memory #14",,,76,91,,,,,,,,,,74,,,,,,,,,,,Memory #7,,,,,,,13,,,,,,,,,,,,,,,,,,Memory #20,,,,,,,,,,,,,,,,,,,,9,,,,,"Memory #4,Memory #14",,,,94,,,,,,,,,,21,,,,,,,,,,,Memory #1,19,,,,,,,,,,,,,,,,,,,,,,,,Memory #3,,,40,,,,,,,,,,,,,,,,,,,,,,Memory #2,,93,,,,,,,,,,,,,,,,,,,,,,,Memory #1,10,,,,,,,,,,,,,,,,,,,,,,,,Memory #9,,,,,,,,,23,,,,,,,,,,,,,,,,"Memory #9,Memory #10,Memory #23",,,,,,,,,34,33,,,,,,,,,,,,,40,,,,,,,,,,,,,"Somewhat Like Me
+4","Somewhat Unlike Me
+2","Extremely Unlike Me
+1","Extremely Unlike Me
+1","Somewhat Like Me
+4","Somewhat Like Me
+4","Strongly Agree
+5","Strongly Agree
+5","Strongly Agree
+5","Somewhat Agree
+4","Strongly Agree
+5","Strongly Disagree
+1","Somewhat Disagree
+2","Somewhat Agree
+4","Somewhat Agree
+4","Somewhat Disagree
+2","Somewhat Agree
+4","Somewhat Disagree
+2",Strongly disagree,Strongly agree,Strongly agree,Agree,Disagree,Agree,Somewhat disagree,Somewhat agree,Disagree,Agree,Agree,Strongly agree,Strongly agree,Somewhat agree,,,,,,,,,,,,,,,,,,,,,,,,,,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Disagree,Strongly Agree,Strongly Agree,Strongly Disagree,Strongly Agree,Disagree,Agree,Neutral,94,24,,,,"Karaoke (recent), White coat, FAM Hang, Sushi goodbye, Getting the stethescope, Gift-giving in clinic, Getting into medical school, Dr. Mehta's phone call, Ella setting it up, Luansing chief, Week 0 Party, Smash with the group, Pickleball with the group, Boot-talk with Ate, Metal slug - you lied, Break-up, Spitting out boba, IKEA with Chels, Boba with Asa, Research with Asa (burritos), Breakfast with Ella/Aadil, Dinner w Poom/Katherine, SPLASH., Disneyland post-breakup",Karaoke (recent),White coat,FAM Hang,Sushi goodbye,Getting the stethescope,Gift-giving in clinic,Getting into medical school,Dr. Mehta's phone call,Ella setting it up,Luansing chief,Week 0 Party,Smash with the group,Pickleball with the group,Boot-talk with Ate,Metal slug - you lied,Break-up,Spitting out boba,IKEA with Chels,Boba with Asa,Research with Asa (burritos),Breakfast with Ella/Aadil,Dinner w Poom/Katherine,SPLASH.,Disneyland post-breakup
